@@ -1,5 +1,5 @@
 ---
-description: '- What is a KI'
+description: What we will do.
 layout: landing
 ---
 
